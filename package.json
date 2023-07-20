@@ -2,7 +2,7 @@
   "license": "MIT",
   "type": "module",
   "version": "0.0.1",
-  "name": "@yamiteru/test",
+  "name": "yamiteru-test",
   "description": "This is a test package",
   "repository": {
     "type": "git",
